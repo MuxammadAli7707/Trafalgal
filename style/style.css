@@ -480,7 +480,8 @@ body {
     font-weight: bold;
 }
 .footer-logo b {
- color: #fff;
+    color: #fff;
+    padding-left: 10px;
 }
 .footer-inner {
     display: flex;
